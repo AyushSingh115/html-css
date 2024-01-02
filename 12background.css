@@ -1,0 +1,123 @@
+.container{
+    background-color: hsla(144, 77%, 50%,0.2);
+
+}
+.logo1{
+    display:inline-block;
+    margin: 10px;
+}
+.logo2{
+    display:inline-block; 
+    margin: 10px; 
+}
+.logo3{
+    display:inline-block;
+    margin: 10px;   
+}
+.logo4{
+    display:inline-block;
+    margin: 10px;
+}
+.contact{
+     display:inline-block;
+    float: right;
+    margin: 10px;  
+}
+.email{
+    display: inline-block;
+    float:right;
+    margin: 10px;   
+}
+.container1{
+    background-color: rgb(245, 113, 208);
+   
+}
+.landing_page{
+    display:inline-block;
+    margin:10px;
+}
+.button1{
+    display: inline-block;
+    float: right; 
+    background-color: chartreuse; 
+    margin: 5px;
+}
+.button2{
+    display: inline-block;
+    float: right; 
+    background-color: chartreuse; 
+    margin: 5px; 
+}
+.button3{
+    display: inline-block;
+    float: right; 
+    background-color: chartreuse; 
+    margin: 5px; 
+}
+.button4{
+    display: inline-block;
+    float: right; 
+    background-color: chartreuse; 
+    margin: 5px; 
+}
+.button5{
+    display: inline-block;
+    float: right; 
+    background-color: chartreuse; 
+    margin: 5px; 
+}
+.button6{
+    display: inline-block;
+    float: right; 
+    background-color: chartreuse; 
+    margin: 5px; 
+}
+.container2{
+    background-color:hsla(144, 77%, 50%,0.2);
+}
+.launch{
+    display: inline-block;
+    margin: 20px;
+}
+.online{
+    display: inline-block;
+    margin: 20px;   
+}
+.time{
+    display: inline-block;
+    margin: 20px;
+}
+.container3{
+    background-color: rgb(245, 113, 208);
+  
+}
+.about{
+    text-align:center;
+}
+.button7{
+    background-color: chartreuse; 
+    
+}
+.image{
+float: inline-end;
+background-color:rgb(245, 113, 208);
+}
+.container4{
+    background-color:hsla(144, 77%, 50%,0.2); 
+    
+}
+.our{
+    text-align: center;
+}
+.img{
+    display:inline-block;
+    margin: 30px;
+}
+.img1{
+    display:inline-block;
+    margin: 30px;
+}
+.img2{
+    display:inline-block;
+    margin: 30px;
+}
